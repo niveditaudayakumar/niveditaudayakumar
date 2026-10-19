@@ -1,38 +1,57 @@
-# Hi, I'm Nivedita Udayakumar! 👋
+# Hi, I'm Nivedita Udayakumar 👋
 
-### B.Tech CSE Student | AI/ML | Cybersecurity | Computer Vision
+### AI/ML | Cybersecurity | Computer Vision
 
-I'm a Computer Science student interested in building intelligent, secure, and impactful technology solutions. I enjoy experimenting with AI, developing software projects, and collaborating on real-world problems.
+I'm a B.Tech Computer Science student at CHRIST University interested in building intelligent and secure technology solutions through hands-on projects and experimentation.
 
-- 🔭 **Currently exploring:** AI agents, machine learning, and cybersecurity
-- 💻 **Languages:** Python, C, SQL
-- 🧠 **Interests:** AI/ML, computer vision, digital identity security, cloud computing
-- 🚀 **Goal:** Build meaningful projects and contribute to innovative hackathon teams
-- 🤝 **Open to:** Hackathons, collaborative projects, and open-source contributions
+I'm especially interested in how machine learning can improve cybersecurity, automate analysis, and solve real-world problems.
 
-## 🛠️ Technologies
+## About Me
 
-Python · Flask · FastAPI · SQL · Git · GitHub · OpenCV · scikit-learn
+- 🎓 B.Tech Computer Science and Engineering student
+- 🛡️ Exploring defensive cybersecurity and threat detection
+- 🤖 Interested in machine learning and AI agent development
+- 👁️ Exploring computer vision and digital identity security
+- ☁️ Learning cloud technologies and application development
+- 🚀 Interested in hackathons, collaborative projects, and open-source learning
 
-## 🌟 Featured Projects
+## Technical Skills
 
-### 1. AI Cyber Attack Detection & Prevention System
-A machine-learning-based web application that classifies network traffic as normal or potentially malicious.
+**Languages:** Python, C, SQL
 
-**Tech:** Python, Flask, scikit-learn
+**AI/ML:** scikit-learn, Random Forest, model evaluation
 
-[View Project](https://github.com/niveditaudayakumar/Cyber-Attack-Detection-and-Prevention-System)
+**Web Development:** Flask, HTML, CSS, REST APIs
 
-### 2. AI Internship Projects
-A collection of AI tasks completed during my CodSoft internship.
+**Tools:** Git, GitHub, VS Code
 
-**Tech:** Python, Artificial Intelligence
+## Featured Projects
 
-[View Repository](https://github.com/niveditaudayakumar/CODSOFT)
+### 🛡️ AI-Based Cyber Attack Detection and Prevention System
 
-## 🌐 Connect With Me
+A Python-based web application combining machine-learning predictions with rule-based checks to identify potentially malicious network traffic. Includes a Flask interface and a JSON prediction API.
 
-- [LinkedIn](https://www.linkedin.com/in/nivedita-udayakumar-423750376/)
-- [GitHub](https://github.com/niveditaudayakumar)
+**Technologies:** Python, Flask, pandas, scikit-learn
 
-*Learning, building, and improving one project at a time.* 🚀
+[View Repository →](https://github.com/niveditaudayakumar/Cyber-Attack-Detection-and-Prevention-System)
+
+### 🤖 AI Internship Projects — CodSoft
+
+A collection of tasks completed as part of an Artificial Intelligence internship.
+
+**Technologies:** Python and the libraries used in the individual projects.
+
+[View Repository →](https://github.com/niveditaudayakumar/CODSOFT)
+
+## Currently Exploring
+
+- Machine learning evaluation and reliable AI systems
+- AI agents and intelligent application workflows
+- Cybersecurity automation and computer vision
+- Building and documenting practical project prototypes
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/nivedita-udayakumar-423750376/) · [GitHub](https://github.com/niveditaudayakumar)
+
+*Learning by building. Improving through testing. Growing through collaboration.* 🚀
